@@ -1,7 +1,6 @@
-# Turistička ponuda Slavonskog Broda - web stranica u flutteru
+# Turistička ponuda Slavonskog Broda - web aplikacija u flutteru
 
 
 ## URL
 https://mms-projekt.web.app/#/
-
 
